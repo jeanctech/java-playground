@@ -35,13 +35,13 @@ Thank you very much for all the support shown!
 
 * [Game to Learn Angular](https://www.freecodecamp.org/espanol/news/angular-en-20-minutos/)
 
-* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
+* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using.
 
-* [Node.js](https://nodejs.org/en) - The framework to create our Backend Api
+* [Node.js](https://nodejs.org/en) - The framework to create our Backend Api.
 
-* [React.js](https://es.react.dev/) - The framework to create our Frontend
+* [React.js](https://es.react.dev/) - The framework to create our Frontend.
 
-* [Vue.js](https://vuejs.org/) - The framework to create our Frontend Api
+* [Vue.js](https://vuejs.org/) - The framework to create our Frontend Api.
 
 ##
 
